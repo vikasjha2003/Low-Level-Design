@@ -4,6 +4,7 @@
 using namespace std;
 
 // Product class representing any item in eCommerce.
+// one class one responsibility only
 
 class Product {
 public:

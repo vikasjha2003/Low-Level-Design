@@ -4,6 +4,8 @@
 using namespace std;
 
 // Product class representing any item in eCommerce.
+// Class should be open to extending but closed to changes
+
 class Product {
 public:
     string name;
